@@ -1,2 +1,19 @@
-# lap-video-chat
-Video chat messenger by Lap.comp with B the B support
+# Lap Video Chat
+
+Минималистичное приложение только для видеозвонков. Интерфейс чатов для звонков.
+
+## Особенности
+- Только аудио/видеозвонки (без текстовых сообщений)
+- Регистрация через Telegram-бота
+- Групповые звонки
+- Стильный минималистичный дизайн
+- Канал музыки B the B
+
+## Архитектура
+- **Бэкенд:** Node.js + Express на Render
+- **База данных:** PostgreSQL на Render
+- **Telegram бот:** Node.js + Telegraf
+- **WebRTC:** LiveKit
+
+## Команда разработки
+Разработано Lap.comp при поддержке B the B
